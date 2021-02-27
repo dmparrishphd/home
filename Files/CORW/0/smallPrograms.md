@@ -1,3 +1,6 @@
+The Critical Thing in End-User Programming
+==========================================
+
 In discussing his definitions of literacy (three distinct kinds),
 which he equates to fluency, Alan Kay, in a 1987 User Group
 University talk, "Emerging Trends" states:
@@ -36,3 +39,5 @@ Kay A (1987, posted 2016-09-28, downloaded 2021-02-27)
 "Emerging Trends." User Group University. 
 User Group University talk 1987 (VPRI 0102) Yoshiki Ohshima;
 YouTube. https://www.youtube.com/watch?v=LwCOJ4VlkAI&t=19m
+
+**License** Quotation: Fair use; Remainder of file: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
