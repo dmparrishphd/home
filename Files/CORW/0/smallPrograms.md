@@ -3,9 +3,9 @@ The Critical Thing in End-User Programming
 
 In discussing his definitions of literacy (three distinct kinds),
 which he equates to fluency, Alan Kay, in a 1987 User Group
-University talk, "Emerging Trends" states:
+University talk, "Emerging Trends" states: Creation fluency is, 
 
-> Creation fluency is, "in the print medium... writing....
+> in the print medium... writing....
 > we expect [the] literate to be able to
 > write... two pages...
 > advancing a point of view and
