@@ -31,14 +31,15 @@ University talk, "Emerging Trends" states:
 > than it is to try and teach
 > the so-called easy programming language;
 > Because... having the programs be very small
-> allows the person to use their visual field
-> as an augmentation to their short term memory,
-> and that is the critical thing in end-user programming."
+> **allows the person to use their visual field**
+> **as an augmentation to their short term memory,**
+> **and that is the critical thing in end-user programming.**
 
 Kay A (1987, posted 2016-09-28, downloaded 2021-02-27)
 "Emerging Trends." User Group University. 
 User Group University talk 1987 (VPRI 0102) Yoshiki Ohshima;
-YouTube. https://www.youtube.com/watch?v=LwCOJ4VlkAI&t=19m
+YouTube. https://www.youtube.com/watch?v=LwCOJ4VlkAI&t=19m .
+emphasis added.
 
 **License** for quotation: fair use
 
