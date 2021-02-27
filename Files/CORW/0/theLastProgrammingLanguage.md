@@ -6,6 +6,7 @@
 > **[One] thing we want** out of our languages is **simplicity... of syntax**.
 > Think of a language like **Forth**.
  
-(Robert "Uncle Bob" Martin (2020-03-31)
+Robert "Uncle Bob" Martin (2020-03-31)
 "The Last Programming Language." Clean Coders.
-https://www.youtube.com/watch?v=P2yr-3F6PQo&t=38m2s)
+https://www.youtube.com/watch?v=P2yr-3F6PQo&t=38m2s
+(emphasis added)
