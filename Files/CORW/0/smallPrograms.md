@@ -41,4 +41,5 @@ User Group University talk 1987 (VPRI 0102) Yoshiki Ohshima;
 YouTube. https://www.youtube.com/watch?v=LwCOJ4VlkAI&t=19m
 
 **License** for quotation: fair use
+
 **License** for remainder of file: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
