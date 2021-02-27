@@ -40,4 +40,5 @@ Kay A (1987, posted 2016-09-28, downloaded 2021-02-27)
 User Group University talk 1987 (VPRI 0102) Yoshiki Ohshima;
 YouTube. https://www.youtube.com/watch?v=LwCOJ4VlkAI&t=19m
 
-**License** Quotation: Fair use; Remainder of file: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+**License** for quotation: fair use
+**License** for remainder of file: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
