@@ -1,7 +1,7 @@
 `%/*/<-%`
 =========
 
-Create pseudo-Unary Operators
+Create pseudo-Unary Operators \[[R](../../WORM/0/PC.SF.AS.SF.LT.HY.PC.R)\]
 
 Usage
 -----
