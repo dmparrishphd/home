@@ -3,7 +3,13 @@ Ari
 
 Status: _In Progress_
 
-Ari is a virtual machine for what might become _Ariadne IV_.
+Ari is a
+[virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
+to support what might become _Ariadne IV_.
+
+Ari is a virtual
+reduced instruction set computer
+\[[RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer)\]
 
 Goals
 -----
