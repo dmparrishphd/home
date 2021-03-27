@@ -24,7 +24,8 @@ Goals
  [3](http://6502.org/)\]
  is too complicated.
  - RISC-V \[[1](https://riscv.org/),
- [2](https://en.wikipedia.org/wiki/RISC-V)\]is too complicated.
+ [2](https://en.wikipedia.org/wiki/RISC-V)\]
+ is too complicated.
 
 Inspiration
 -----------
