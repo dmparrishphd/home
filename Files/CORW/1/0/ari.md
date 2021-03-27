@@ -17,6 +17,15 @@ Goals
  1. Simplicity (small code size, including code to compile Ari)
  2. Composability (multiple copies of Ari should be able to work together)
 
+### Benchmarks
+
+ - The 6502 \[[1](https://westerndesigncenter.com/wdc/documentation/w65c02s.pdf),
+ - [2](https://en.wikipedia.org/wiki/MOS_Technology_6502),
+ - [3](http://6502.org/)\]
+ - is too complicated.
+ - RISC-V \[[1](https://riscv.org/),
+ - [2](https://en.wikipedia.org/wiki/RISC-V)\]is too complicated.
+
 Inspiration
 -----------
 
