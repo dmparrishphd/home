@@ -9,7 +9,7 @@ to support what might become _Ariadne IV_.
 
 Ari is a virtual
 reduced instruction set computer
-\[[RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer)\]
+\[[RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer)\].
 
 Goals
 -----
