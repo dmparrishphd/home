@@ -24,7 +24,9 @@ In the film [_The Queens Gambit_](https://www.netflix.com/title/80234304),
 the protagonist's (adopted) mother makes a comment about chess,
 as she watches her daughter play a match:
 "It's so complicated."
-Therefore, I am striving to make Ari _less_ complicated than chess.
+Therefore, I am striving to make Ari _less_ complicated than chess
+\[[1](https://handbook.fide.com/chapter/E012018),
+[2](https://en.wikipedia.org/wiki/Rules_of_chess)\].
 
 Language
 --------
